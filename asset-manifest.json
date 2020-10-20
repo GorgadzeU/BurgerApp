@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BurgerApp/static/css/main.57c67baf.chunk.css",
+    "main.js": "/BurgerApp/static/js/main.5190b8a2.chunk.js",
+    "main.js.map": "/BurgerApp/static/js/main.5190b8a2.chunk.js.map",
+    "runtime-main.js": "/BurgerApp/static/js/runtime-main.13c4561a.js",
+    "runtime-main.js.map": "/BurgerApp/static/js/runtime-main.13c4561a.js.map",
+    "static/js/2.8f070cea.chunk.js": "/BurgerApp/static/js/2.8f070cea.chunk.js",
+    "static/js/2.8f070cea.chunk.js.map": "/BurgerApp/static/js/2.8f070cea.chunk.js.map",
+    "index.html": "/BurgerApp/index.html",
+    "precache-manifest.0cc001b0fade830a51e6026eed2d9862.js": "/BurgerApp/precache-manifest.0cc001b0fade830a51e6026eed2d9862.js",
+    "service-worker.js": "/BurgerApp/service-worker.js",
+    "static/css/main.57c67baf.chunk.css.map": "/BurgerApp/static/css/main.57c67baf.chunk.css.map",
+    "static/js/2.8f070cea.chunk.js.LICENSE.txt": "/BurgerApp/static/js/2.8f070cea.chunk.js.LICENSE.txt",
+    "static/media/BurgerLogo.png": "/BurgerApp/static/media/BurgerLogo.b8503d26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13c4561a.js",
+    "static/js/2.8f070cea.chunk.js",
+    "static/css/main.57c67baf.chunk.css",
+    "static/js/main.5190b8a2.chunk.js"
+  ]
+}
